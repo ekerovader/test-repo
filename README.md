@@ -1,7 +1,7 @@
 # test-repo
 for testing vscode and github
 
-Hi how are you.
+## Testing heading
 Testing.
 Testing.
 Testing.
